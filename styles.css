@@ -1,0 +1,220 @@
+body {
+    background-color: #496600;
+	text-align: center;
+	margin: 0; vertical-align: middle;
+}
+
+#content {
+    width: 940px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+    border: 2px solid #ffffcc;
+}
+
+.links_up {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: none;
+	color: #272D01;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: none;
+	color: #CFD685;
+	text-decoration: none;
+	background-color: #496600;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+td.bodytxt {
+	padding: 0 1em;
+}
+.bodytxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #304200;
+	font-style: normal;
+}
+.bodytxtsmall {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #304200;
+	font-style: normal;
+}
+.left {
+	width:150px;
+	font-size:x-large;
+	font-family:times;
+	color:#F96820;
+	text-align:right;
+	margin-bottom:30px;
+	padding-bottom:45px;
+	background-image: url(photos/scsep.gif);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	margin-right: 10px;
+}
+.highlight{
+ background-color:#D7DD8E;
+}
+.lpb{
+ padding-bottom:2px;
+}
+.lpt{
+ padding-top:2px;
+}
+.wide{
+ width:140px;
+ font-weight:bold;
+}
+.bord{
+ border-bottom:1px solid #AFBA58;
+ border-top:1px solid #AFBA58;
+}
+#thumb_top {
+  font-family: Arial, Helvetic, sans-serif;
+}
+#thumbs{
+	background-color: #658C01;
+}
+#thumbs a img{
+ border:0;
+display:block;
+}
+#thumbs a{
+	display:block;
+	padding:8px;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-bottom: 5px;
+}
+#thumbs a:hover{
+	background-color: #496600;
+	font-weight: normal;
+	font-variant: normal;
+}
+#thumbs a span{
+ color:#CFD685;
+}
+#ameni li {
+	list-style-image: url(photos/li.gif);
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #304200;
+}
+#pack li {
+	list-style-image: url(photos/li.gif);
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #304200;
+}
+.q {
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	background-color: #BFC859;
+}
+.title1 {
+	font-size:x-large;
+	font-family:times;
+	color:#FFFFCC;
+}
+.bord2 {
+	border: 4px solid #496600;
+	margin-left: 5px;
+}
+.box {
+	height: 20px;
+	width: 110px;
+	background-color: #C1C961;
+	text-align: center;
+	padding: 5px;
+	border-top: 2px solid #BFC85B;
+	border-right: 2px solid #496600;
+	border-bottom: 2px solid #496600;
+	border-left: 2px solid #BFC85B;
+}
+.frmlabel {
+	color: #496600;
+	background-color: #DCE0A3;
+	border: 1px solid #496600;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.links_up2 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: none;
+	color: #272D01;
+}
+.bord3 {
+	border: 4px solid #496600;
+}
+#leaf {
+	background-image: url(photos/leaf.gif);
+	background-position: right;
+	background-repeat: no-repeat;
+}
+.hide {
+	visibility: hidden;
+}
+#announcelodge {
+	background-image: url(lodge_files/back_announcelodge.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 192px;
+	float: right;
+	margin-left: 15px;
+	width: 290px;
+	margin-bottom: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+#announcelodge span {
+	text-align: center;
+	font-size: medium;
+	font-weight: bold;
+	color: #304200;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+#announcelodge p {
+	text-align: center;
+	margin: 0px;
+	padding: 5px 15px 0px;
+}
+#announcelodge a:link {
+	color: #F96820;
+	text-decoration: underline;
+}
+#announcelodge a:visited {
+	color: #F96820;
+	text-decoration: underline;
+}
+#announcelodge a:hover {
+	color: #FFFFCC;
+	text-decoration: none;
+}
