@@ -166,7 +166,8 @@ display:block;
 	font-size: 14px;
 	font-weight: bold;
 	font-variant: small-caps;
-	text-transform: none;
+	text-transform: uppercase;
+  transform: none;
 	color: #272D01;
 }
 .bord3 {
