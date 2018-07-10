@@ -22,13 +22,24 @@ body {
 }
 a:hover {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
 	font-weight: bold;
 	font-variant: small-caps;
 	text-transform: none;
 	color: #CFD685;
 	text-decoration: none;
 	background-color: #496600;
+}
+.check-and-book-online {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: none;
+	color: #CFD685;
+	text-decoration: none;
+	background-color: #496600;
+}
+.links_up.check-and-book-online {
+  font-size: 13px;
 }
 a:link {
 	text-decoration: none;
